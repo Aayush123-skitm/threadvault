@@ -1,0 +1,6 @@
+{
+  "name": "ThreadVault - Premium Streetwear & Graphic Tees",
+  "description": "Modern dark-themed streetwear e-commerce experience for premium heavyweight graphic t-shirts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
